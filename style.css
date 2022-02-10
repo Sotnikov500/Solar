@@ -78,3 +78,9 @@ background: url(../img/headerBG.jpg) 0 0/cover no-repeat;
 .header__social-img + .header__social-img {
   margin-left: 20px;
 }
+@media( max-width:555px){
+.header__wrapper{
+  overflow-y: hidden;
+  
+}
+}
